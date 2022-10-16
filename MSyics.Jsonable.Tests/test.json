@@ -1,0 +1,44 @@
+{
+  "_string_": "string",
+  "_number_": 0.1,
+  "_true_": true,
+  "_false_": false,
+  "_null_": null,
+  "_array_": [
+    "0",
+    0,
+    true,
+    false,
+    null,
+    [
+      0,
+      1,
+      2
+    ],
+    {
+      "_object_": 0
+    }
+  ],
+  "_object_": {
+    "_string_": "0",
+    "_number_": 0.1,
+    "_true_": true,
+    "_false_": false,
+    "_null_": null,
+    "_array_": [
+      "0",
+      0,
+      true,
+      false,
+      null,
+      [
+        0,
+        1,
+        2
+      ],
+      {
+        "_object_": 0
+      }
+    ]
+  }
+}

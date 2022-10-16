@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>System.Text.Json</RootNamespace>
+    <PackageId>Jsonable</PackageId>
+    <Title>Jsonable</Title>
+    <Authors>MSyics</Authors>
+    <Company>MSyics</Company>
+    <PackageTags>json;dynamic;</PackageTags>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>1.0.0</Version>
+    <Product>Jsonable</Product>
+    <Description>Dynamic json operations.</Description>
+    <Copyright>Copyright (c) 2022 MSyics</Copyright>
+    <PackageProjectUrl>https://github.com/MSyics/Jsonable</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MSyics/Jsonable</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
